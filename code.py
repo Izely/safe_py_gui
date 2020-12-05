@@ -1,2 +1,2 @@
 #import relavent libraries
-brush up on pyQt
+#brush up on pyQt(greener is better ;))
