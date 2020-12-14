@@ -1,6 +1,6 @@
 import math
 import pyQt5
-#import kivy
+from kivy import App
 #variables
 #password, username
 #an incryption method/hashing
