@@ -1,7 +1,7 @@
 import math
 import pyQt5
 from kivy import App
-#variables
+#variables///password/stored_pass/trials/encryption/wrong pass msg/exhausted chances msg/
 #password, username
 #an incryption method/hashing
 #a storage folder
