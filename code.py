@@ -7,7 +7,6 @@ from kivy.md import App, Screen
 #an incryption method/hashing
 #a storage folder
 #import relavent libraries
-#brush up on pyQt(greener is better ;))eryeeyyt
 for trials in range(0, 9):
 	password = input('password:')
 	if password = stored_pass:
