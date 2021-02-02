@@ -1,3 +1,5 @@
+import os
+import base64
 import math
 import pyQt5
 from kivy import App
