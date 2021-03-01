@@ -3,7 +3,7 @@ import base64
 import cryptoraphy
 #from cryptography.fernet import
 import math
-import pyQt5
+#import pyQt5
 from kivy import App
 from kivy.md import App, Screen
 #variables///password/stored_pass/trials/encryption/wrong pass msg/exhausted chances msg/
